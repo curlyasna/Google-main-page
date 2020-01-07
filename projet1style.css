@@ -1,0 +1,64 @@
+#logo {
+	display: flex;
+    justify-content: center;
+    margin: auto;
+    height:"233px";
+    margin-top: 150px;
+    flex-direction: column;
+}
+
+.topright {
+    display: flex;
+    /* text-decoration-*/ color: #OOO;
+    font-family: arial;
+    font-size: 0.90em;
+    margin-left: 900px;
+}
+
+
+.gmail {
+	display: flex;
+    margin-right: 30px;
+
+}
+
+.images {	
+	display:flex;
+	margin-right: 20px;
+}
+
+.liste
+{	
+background-color: blue;
+}
+
+.connexion {	
+border: blue;
+margin-right: 50px;
+height:30px;
+width:20px;
+}
+
+#boutonsderecherche {	
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    flex-direction: row;
+    }
+
+.jaidelachance{	
+    display: flex;
+    margin-left: 20px;
+    }
+
+.footer
+{	
+display: flex;
+margin-top: 220px;
+font-family: arial,sans-serif;
+font-size:0.8em;
+color: rgb(95, 99, 104);
+justify-content: space-between;
+}
+
+
